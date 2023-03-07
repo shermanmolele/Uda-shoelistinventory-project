@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">ShoeStore</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="instructions">Instructions</string>
+    <string name="please_find_all_the_instructions_on_our_website">instructionsBody</string>
+    <string name="show_shoe_list">Show shoe list</string>
+    <string name="doe_example_com">Doe@example.com</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_in_with_existing_account">Register</string>
+    <string name="add_shoe">Add shoe</string>
+    <string name="welcome">Welcome to the shoe palace. Your  1 stop shoe place!</string>
+    <string name="our_store_offers_a_whole_range_of_shoes_click_next_to_navigate_to_the_store">Our store offers a whole range of shoes, click next to navigate to the store</string>
+    <string name="view_instructions">View Instructions</string>
+    <string name="shoe_details">Add Shoe details</string>
+    <string name="shoe_name">Shoe name</string>
+    <string name="enter_shoe_name">enter shoe name</string>
+    <string name="company_name">company_name</string>
+    <string name="enter_company_name">enter_company_name</string>
+    <string name="shoe_size">shoe_size</string>
+    <string name="enter_shoe_size">enter_shoe_size</string>
+    <string name="description">description</string>
+    <string name="enter_description">enter_description</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="logout">Logout</string>
+    <string name="instructions_step_one">1. Tap the + icon to add a new shoe item to your cart</string>
+    <string name="instructions_step_two">2. Tap the Save Button to save the shoe to your cart and cancel to navigate back</string>
 </resources>
